@@ -7,8 +7,8 @@ header {
     display: flex;
     justify-content: space-around;
     position: fixed;
-    height: 75px;
+    height: 45px;
     width: 100%;
     background-color: rgb(3, 88, 66);
-    margin: 0px 50px;
+    padding: 0px 50px;
 }
