@@ -4,6 +4,8 @@
 }
 
 header {
+    display: flex;
+    justify-content: space-between;
     position: fixed;
     height: auto;
     width: 100%;
