@@ -5,9 +5,10 @@
 
 header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     position: fixed;
     height: auto;
     width: 100%;
     background-color: rgb(3, 88, 66);
+    margin: 0px 50px;
 }
