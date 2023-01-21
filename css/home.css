@@ -12,3 +12,8 @@ header {
     width: 100%;
     background-color: rgb(3, 88, 66);
 }
+
+.menu{
+    display: flex;
+    gap: 15px;
+}
