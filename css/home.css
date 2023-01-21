@@ -13,6 +13,11 @@ header {
     background-color: rgb(3, 88, 66);
 }
 
+.my-name{
+    font-size: 25px;
+    font-weight: 600;
+}
+
 .menu{
     display: flex;
     gap: 15px;
