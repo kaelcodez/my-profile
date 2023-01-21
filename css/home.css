@@ -17,3 +17,8 @@ header {
     display: flex;
     gap: 15px;
 }
+
+.menu a {
+    text-decoration: none;
+    
+}
