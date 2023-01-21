@@ -16,10 +16,11 @@ header {
 .menu{
     display: flex;
     gap: 15px;
-    justify-content: center;
 }
 
 .menu a {
+    display: block;
+    justify-self: center;
     text-decoration: none;
     font-size: 15px;
     color: black;
